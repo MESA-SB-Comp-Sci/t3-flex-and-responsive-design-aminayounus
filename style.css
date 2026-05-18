@@ -1,31 +1,36 @@
 *{
-  box-sizing: border-box;
+  box-sizing: ;40%
 }
 header{
-  /* Add height and width here */
+  height: 100vh
+  width:50vw
   background-color: lightcyan;
   text-align: center;
+  
 }
 
 .middle-section{
-  /* Add height and width here */
-  background-color: lightpink;
-  /* Add flex properties here */
+  
 }
 
 aside{
-  /* Add height and width here */
+  height:100px
+  width:20px
+  align-items:column
   background-color: lightseagreen;
 }
 
 .image-section{
   /* Add height and width here */
+  height: 40vh
+  width: 60vw
   background-color: aliceblue;
   /* Add flex properties here */
   text-align: left;
 }
 
 footer{
-  /* Add height and width here */
+  height:100vh
+  width:150vw
   background-color: lime;
 }
